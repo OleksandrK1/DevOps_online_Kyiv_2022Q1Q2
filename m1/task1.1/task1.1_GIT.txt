@@ -1,0 +1,16 @@
+9e5ab99 HEAD@{0}: merge develop: Fast-forward
+15557da HEAD@{1}: checkout: moving from develop to main
+9e5ab99 HEAD@{2}: merge styles: Fast-forward
+2f11e93 HEAD@{3}: merge images: Fast-forward
+2bc91d9 HEAD@{4}: checkout: moving from styles to develop
+9e5ab99 HEAD@{5}: commit: Added styles folder to index.html
+ce89217 HEAD@{6}: commit: Added styles.txt to styles folder
+2f11e93 HEAD@{7}: checkout: moving from develop to styles
+2bc91d9 HEAD@{8}: checkout: moving from images to develop
+2f11e93 HEAD@{9}: commit: My 4th Commit
+3dbd6c3 HEAD@{10}: commit: My 3rd Commit
+2bc91d9 HEAD@{11}: checkout: moving from develop to images
+2bc91d9 HEAD@{12}: commit: My 2nd Commit
+15557da HEAD@{13}: checkout: moving from main to develop
+15557da HEAD@{14}: commit: My 1st Commit
+97033e4 HEAD@{15}: clone: from https://github.com/OleksandrK1/DevOps_online_Kyiv_2022Q1Q2.git
