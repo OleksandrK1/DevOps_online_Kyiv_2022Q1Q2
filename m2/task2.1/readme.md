@@ -49,7 +49,19 @@
 
 [![N|Solid](https://github.com/OleksandrK1/DevOps_online_Kyiv_2022Q1Q2/raw/main/m2/task2.1/images/2_1.JPG)]
 
+2.2 Configure the USB to connect the USB ports of the host machine to the VM[1, ch.3.11].
 
+[![N|Solid](https://github.com/OleksandrK1/DevOps_online_Kyiv_2022Q1Q2/raw/main/m2/task2.1/images/2_2.JPG)]
+
+2.3 Configure a shared folder to exchange data between the virtual machine and the host [1, ch.4.3].
+
+[![N|Solid](https://github.com/OleksandrK1/DevOps_online_Kyiv_2022Q1Q2/raw/main/m2/task2.1/images/2_3.JPG)]
+
+2.4 Configure  different  network  modes  for  VM1,  VM2.  Check  the  connection between VM1, VM2, Host, Internet for different network modes. You can use the pingcommand to do this. Make a table of possible connections.
+
+
+
+3.Work with CLI through VBoxManage.3.1 Run the cmd.exe command line.3.2 Examine  the  purpose  and  execute  the  basic  commands  of  VBoxManage list, showvminfo, createvm, startvm, modifyvm, clonevm, snapshot, controlvm[1, ch.8].
 
 
 
