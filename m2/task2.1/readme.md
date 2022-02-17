@@ -6,6 +6,7 @@
 **_Answer: Oracle VM Virtualbox and VMWare_**
 
 2.Briefly describe the main differences of the most popular hypervisors
+
 **_Answer: Oracle VM Virtualbox is free, VMWare is commertial software with official support and some additional instruments correct work of which garantied by owner_**
 
 ### PART 2. WORK WITH VIRTUALBOX
