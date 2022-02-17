@@ -15,7 +15,9 @@
 1.2From the official VirtualBox site [2] download the latest stable version of VirtualBox according to the host operating system (OS) installed on the student's workplace. For Windows, the file may be called, for example, VirtualBox-6.1.10-138449-Win.exe. Install VirtualBox.
 1.3Download the latest stable version of Ubuntu Desktop or Ubuntu Server from the official site [3].
 1.4Create VM1 and install Ubuntu using the instructions [1, chapter 1.8]. Set machine name as "host machine name"_"student last name"
-[![N|Solid](./images/1_4.jpg)]
+
+[![N|Solid](/images/1_4.jpg)]
+
 1.5Get acquainted with the possibilities of VM1 control -start, stop, reboot, save state, use Host key and keyboard shortcuts, mouse capture, etc. [1, ch.1.9].
 [![N|Solid](./images/1_5.jpg)]
 1.6Clone an existing VM1 by creating a VM2 [1, ch.1.14].
