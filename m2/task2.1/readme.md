@@ -2,7 +2,9 @@
 ## TASK 2.1
 ### PART 1. HYPERVISORS
 1.What are the most popular hypervisors for infrastructure virtualization?
-    **_Answer: Oracle VM Virtualbox and VMWare_**
+
+**_Answer: Oracle VM Virtualbox and VMWare_**
+
 2.Briefly describe the main differences of the most popular hypervisors
 **_Answer: Oracle VM Virtualbox is free, VMWare is commertial software with official support and some additional instruments correct work of which garantied by owner_**
 
