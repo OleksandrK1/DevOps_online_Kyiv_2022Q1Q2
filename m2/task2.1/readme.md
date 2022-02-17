@@ -20,7 +20,7 @@
 
 1.4Create VM1 and install Ubuntu using the instructions [1, chapter 1.8]. Set machine name as "host machine name"_"student last name"
 
-[![N|Solid](/DevOps_online_Kyiv_2022Q1Q2/m2/task2.1/images/1_4.jpg)]
+[![N|Solid](https://github.com/OleksandrK1/DevOps_online_Kyiv_2022Q1Q2/raw/main/m2/task2.1/images/1_4.JPG)]
 
 1.5Get acquainted with the possibilities of VM1 control -start, stop, reboot, save state, use Host key and keyboard shortcuts, mouse capture, etc. [1, ch.1.9].
 [![N|Solid](./images/1_5.jpg)]
