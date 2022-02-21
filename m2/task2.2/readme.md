@@ -9,7 +9,7 @@
 [![N|Solid](https://github.com/OleksandrK1/DevOps_online_Kyiv_2022Q1Q2/raw/main/m2/task2.2/images/5.JPG)]
 +6. Create and attach a Disk_D (EBS) to your instance to add more storage space. Create and save some file on Disk_D.
 [![N|Solid](https://github.com/OleksandrK1/DevOps_online_Kyiv_2022Q1Q2/raw/main/m2/task2.2/images/6.JPG)]
-[![N|Solid](https://github.com/OleksandrK1/DevOps_online_Kyiv_2022Q1Q2/raw/main/m2/task2.2/images/6_1.JPG)]
+![N|Solid](https://github.com/OleksandrK1/DevOps_online_Kyiv_2022Q1Q2/raw/main/m2/task2.2/images/6_1.JPG)
 +7. Launch the second instance from backup.
 +8. Detach Disk_D from the 1st instance and attach disk_D to the new instance.
 +9. Review the 10-minute example. Explore the possibilities of creating your own domain and domain name for your site. Note, that Route 53 not free service. Alternatively you can free register the domain name *.PP.UA and use it.
