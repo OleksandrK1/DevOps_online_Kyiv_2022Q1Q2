@@ -11,9 +11,9 @@ Client_1 та Client_2 – Віртуальні машини, на яких ро
 Адреса мережі Net4 – 172.16.D.0/24.
 Увага! Якщо, адресний простір Net2, Net3 або Net4 перетинається з адресним простором Net1 – відповідну адресу можна змінити на власний розсуд.
 1. На Server_1 налаштувати статичні адреси на всіх інтерфейсах.
-[![N|Solid](https://github.com/OleksandrK1/DevOps_online_Kyiv_2022Q1Q2/raw/main/m2/task5/5_1.jpg)]
+[![N|Solid](https://github.com/OleksandrK1/DevOps_online_Kyiv_2022Q1Q2/raw/main/m2/images/task5/5_1.jpg)]
 2. На Server_1 налаштувати DHCP сервіс, який буде конфігурувати адреси Int1 Client_1 та Client_2
-[![N|Solid](https://github.com/OleksandrK1/DevOps_online_Kyiv_2022Q1Q2/raw/main/m2/task5/5_2.jpg)]
+[![N|Solid](https://github.com/OleksandrK1/DevOps_online_Kyiv_2022Q1Q2/raw/main/m2/task5/images/5_2.jpg)]
 3. За допомогою команд ping та traceroute перевірити зв'язок між віртуальними машинами. Результат пояснити.
 [![N|Solid](https://github.com/OleksandrK1/DevOps_online_Kyiv_2022Q1Q2/raw/main/m2/task5/images/5_3_1.jpg)] __ping from Server1 to Client1__
 [![N|Solid](https://github.com/OleksandrK1/DevOps_online_Kyiv_2022Q1Q2/raw/main/m2/task5/images/5_3_2.jpg)] __ping from Client1 to Server1__
